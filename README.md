@@ -17,10 +17,10 @@ npx hardhat run scripts/deploy.js --network localhost
 -> use a copy of one of the private keys from your local test blockchain to
 
 ---------
-#when you run into following errors:
+## when you run into following errors:
 
 1. Nonce too high. Expected nonce to be 0 but got 19. Note that transactions can't be queued when automining.
--> Maybe you restarted your Blockchain? Know your Blockchain expect that the nonce is 0
+-> Maybe you restarted your Blockchain? In this case, your Blockchain expect that the nonce is 0
 -> go to metamask settings and change manuell the nonce 
 
 
