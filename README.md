@@ -21,7 +21,7 @@ npx hardhat run scripts/deploy.js --network localhost
 
 1. Nonce too high. Expected nonce to be 0 but got 19. Note that transactions can't be queued when automining.
 -> Maybe you restarted your Blockchain? In this case, your Blockchain expect that the nonce is 0
--> go to metamask settings and change manuell the nonce 
+-> go to metamask settings and change manual the nonce 
 
 
 2. Calling an Account which is not a contract
