@@ -25,5 +25,7 @@ npx hardhat run scripts/deploy.js --network localhost
 
 
 2. Calling an Account which is not a contract
+-> Could be false contract address in component 
 -> redeploy the contract
 -> npx hardhat run scripts/deploy.js --network localhost 
+-> double check the contract address 
