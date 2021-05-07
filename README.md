@@ -1,4 +1,4 @@
-# helloHardhatReact (Fullstack DApps)
+# helloHardhatReact (Fullstack DApp)
 Getting started with hardhat and react
 
 1. start react app: 
